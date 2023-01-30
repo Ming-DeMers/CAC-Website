@@ -30,53 +30,48 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 ### Existing Site: The Site (Milestone 1)
 > What is your existing site about? Tell us about it.
-
-TODO: tell us about your website
+This website is about the Capture at Cornell photography and videography club at Cornell.
 
 > How and where did you create this site?
 
-TODO: tell us how you created it
+This was created for the INFO 1300 class, project 3. It was created in the span of a few weeks.
 
 > Is this site designed for desktop, mobile devices or both?
 
-TODO: mobile or desktop
+This website is responsive and was designed for desktop and mobile devices.
 
 > Explain with this website is a **static** website.
 
-TODO:
-
+This website is static because it contains no ontent that changes, depsite user input or environment. It is written in HTML+CSS+JS
 
 ### Existing Site: Audience (Milestone 1)
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group.
 
-TODO: site's _cohesive_ audience
+The audience of this site are students of Cornell and those interested in learning more about the club. This tends to be photographers and videographers, as well as members and individuals of other clubs or organizations looking to collab with our club. Site visitors likely want to learn more about the club and understand what the club has to offer. This is a cohesive group because they all have a common interest in photography and videography, and are looking to learn more about the club, and are a subset of Cornell.
 
 
 ### Existing Site: Audience Goals (Milestone 1)
 > Document your existing site's audience's goals. (These should be informed by user research. Not assumptions or stereotypes.)
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
-
+Goal 1: To learn more about Capture at Cornell - it's past and present offerings, what they do, if they want to join.
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - TODO: design ideas
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - TODO: rationale
 
-Goal 2: TODO: brief title
-
+Goal 2: To join the club by filling out the quick form, or to contact the e-board.
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - TODO: design ideas
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - TODO: rationale
 
-Goal 3: TODO: brief title
-
-TODO: design ideas and rationale
-
-
-TODO: add as many goals as needed
+Goal 3: To collab with the club by filling out the form.
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - TODO: design ideas
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - TODO: rationale
 
 
 ### Existing Site: Design/Sketches (Milestone 1)
