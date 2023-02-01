@@ -10,18 +10,6 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 **Everything, including images, must be visible in _Markdown: Open Preview_.** If it's not visible in the Markdown preview, then we can't grade it. We also can't give you partial credit either. **Please make sure your design journey should is easy to read for the grader;** in Markdown preview the question _and_ answer should have a blank line between them.
 
-
-## Markdown Instructions
-
-**TODO: delete this section before submission.**
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning objective of this course.
-
-**Please use the official [Markdown Reference Documentation](https://commonmark.org/help/) if you aren't sure how to "code" Markdown.**
-
-**TODO: delete this section before submission.**
-
-
 ## Existing Design (Milestone 1)
 
 **Make the case for your decisions using concepts from class, as well as other design principles, theories, examples, and cases from outside of class (includes the design prerequisite for this course).**
@@ -56,22 +44,26 @@ The audience of this site are students of Cornell and those interested in learni
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
 Goal 1: To learn more about Capture at Cornell - it's past and present offerings, what they do, if they want to join.
+
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+- The design will be a straightforward website that users can view and easily find the information they want. The site will use partials for the header and footer, and will have a navigation bar that users can use to navigate the site. There will also be an events page that can be used to view past and upcoming events, which will be dynamic.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - This is necessary for the essence of this website and its usefulness.
 
 Goal 2: To join the club by filling out the quick form, or to contact the e-board.
+
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - The design will have a form that users can fill out to join the club, and a contact page with the e-board's emails.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - This will provide a quick way for users to join the club, and a way for them to contact the e-board.
 
 Goal 3: To collab with the club by filling out the form.
+
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - The design will have a form that users can fill out to collab with the club.
+
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - This will provide a quick way for users to request a collab with the club.
 
 
 ### Existing Site: Design/Sketches (Milestone 1)
@@ -79,10 +71,20 @@ Goal 3: To collab with the club by filling out the form.
 > **You may not copy your sketches from a previous assignment.**
 > Why can't you copy the sketches? I want to get you thinking about the strengths/weaknesses of the current design.
 > Provide an explanation _underneath_ each sketch explaining the sketch and any design patterns you are leveraging.
+The home page will contain introductory information about the club, as well as a some images of the club. The about page will contain more information about the club, and the events page will contain a list of past and upcoming events. The contact page will contain the e-board's emails, the ability to send an email to the club in general, and a collab form.
 
-TODO: A sketch + explanation for each webpage
+The pages will use partials for the header, and the forms and events will be dynamic.
 
+## Home Page
+![Alt text](home%20page%20design.jpg)
+## About page
+![Alt text](about%20page%20design.jpg)
 
+## Events Page
+![Alt text](events%20page%20design.jpg)
+
+## Contact Page
+![Alt text](contact%20page%20design.jpg)
 
 ## Milestone 1 Feedback Revisions (Milestone 2)
 > Explain what you revised in response to the Milestone 1 feedback
