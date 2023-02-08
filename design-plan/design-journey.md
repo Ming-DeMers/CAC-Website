@@ -100,16 +100,26 @@ TODO: milestone 1 feedback revisions
 > Your persona must have a name and a face. The face can be a photo of a face or a drawing, etc.
 > You may type out the persona below with bullet points or include an image of the persona. Just make sure it's easy to read the persona when previewing markdown.
 
-Persona's Name: TODO: persona name
+# Ferdinando Flores
 
-TODO: persona details
+![Alt text](Ferd.jpg)
+*Image sourced from https://thispersondoesnotexist.com/, produced by GAN (generative adversarial network) StyleGAN2*
+
+Ferdinando Flores is a Junior Cornellian and studies Computer Science. They hate being called "Ferd," even though everyone calls them that. Despite their studies, Ferd actually has a passion for photography and hopes to pursue it after school. Ferd knows nothing about photography. Against the advice of their parents, friends, and faculty, they have decided to spend a lot of money on new equipment that they do not know how to use, but would like to learn. They have heard about Capture at Cornell and would like to learn more about the club and how they can join.
+
+- Has photography equipment
+- Needs to learn how to use it
+- Needs to find a community to learn from
+- Needs opportunities to practice photography
+- Needs to stop being called "Ferd"
+- Obstacle: disapproving parents
+
 
 
 ### Refined Design: Mobile or Desktop (Milestone 2)
 > Will your refined design be functional on mobile, tablet, or desktop devices?
 
-TODO: how will your persona access your website?
-
+Ferd, being the typical upper-middle class Cornellian, has a desktop PC, a laptop, an iPad, an iPhone, as well as a Kindle (which they bought at a Fourth of July sale hoping to get into reading, but never did). Ming, also a typical Cornellian, does not have time to design for every platform. The website will be redesigned will be for desktop.
 
 ### Refined Design: Form Brainstorm (Milestone 2)
 > Brainstorm ideas for collecting data from your persona on your website.
@@ -117,7 +127,11 @@ TODO: how will your persona access your website?
 > For each form idea, explain how the form supports the goals of the persona.
 > **Refer to the persona by name.**
 
-TODO: list about 3 ideas for including a form on your website
+- A form to collect information about the user's photography equipment and expereince, so that the club can understand its users better and cater towards the majority of them.
+- - Ferd wants to learn how to use their new photography equipment, and has no experience with photography. The club can host events that help Ferd learn how to use their equipment.
+- A form to collect information about the user's photography interests, so that the club can help them find opportunities to practice photography.
+- - Ferd wants to find opportunities to practice photography, and the club can help them do that.
+- A form for club members to submit their photos. This helps others, like Ferd, to learn and grow together.
 
 
 ### Refined Design: Content (Milestone 2)
@@ -125,18 +139,16 @@ TODO: list about 3 ideas for including a form on your website
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 > List the content here. Label the content as "(new)" if it's new to the existing site.
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+1. A gallery of photos of the club's work so Ferd can see the club's work.
+2. A list of upcoming events so Ferd can see what events the club is hosting.
+3. A form for Ferd to fill out so they may submit their own work.
 
 
 ### Refined Design: Content Justification (Milestone 2)
 > Explain why this content supports the goals of your persona.
 > **Refer to the persona by name.**
 
-TODO: content justification
-
+This will help Ferd to not only see the activity of the club, but also become involved with it.
 
 ### Refined Design: Content Organization (Milestone 2)
 > Organize the content for the audience and identify possible pages for the content using **multiple iterations** of card sorting.
@@ -150,15 +162,14 @@ TODO: iterations of card sorting
 ### Refined Design: Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Home
+- About
+- Events
+- Gallery
 
 > Explain why the names of these pages make sense for your persona.
 
-TODO: explain why the pages name make sense to the audience.
-
+This helps Ferd to find the information they need quickly and easily in few pages.
 
 ### Refined Design: Design (Milestone 2)
 > Refine the design of your site to address the goals of your persona.
@@ -175,8 +186,10 @@ TODO: sketches + explanation
 > You may describe each partial or sketch it. It's up to you!
 > Explain how you will customize at least 1 partial.
 
-TODO: partial plan
+There will be a header and footer partial.
+The header will be the same as the current website's header.
 
+The footer will be customized to include links to the club's social media pages and contact information, as well as a link to join.
 
 ## Milestone 2 Feedback Revisions (Milestone 3)
 > Explain what you revised in response to the Milestone 2 feedback

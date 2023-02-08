@@ -1,3 +1,11 @@
+<?php
+$title = 'About';
+
+$nav_home_class = 'active_page';
+$nav_citations_class = '';
+$nav_cooking_class = '';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,16 +18,7 @@
 </head>
 
 <body>
-
-  <div class="menu">
-    <nav>
-      <ul>
-        <li><a href="index.php"> Home </a></li>
-        <li><a href="about.php"> About </a></li>
-        <li><a href="events.php"> Events</a></li>
-      </ul>
-    </nav>
-  </div>
+  <?php include 'includes/header.php'; ?>
 
   <div class="body">
     <h1>About</h1>

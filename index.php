@@ -1,3 +1,11 @@
+<?php
+$title = 'Home';
+
+$nav_home_class = 'active_page';
+$nav_citations_class = '';
+$nav_cooking_class = '';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,23 +18,8 @@
 </head>
 
 <body>
-  <header>
-    <div id="header_figure">
-      <figure>
-        <img src="images/Capture_logo.png" alt="" width="400" />
-      </figure>
-    </div>
-  </header>
 
-  <div class="menu">
-    <nav>
-      <ul>
-        <li><a href="index.php"> Home </a></li>
-        <li><a href="about.php"> About </a></li>
-        <li><a href="events.php"> Events</a></li>
-      </ul>
-    </nav>
-  </div>
+  <?php include 'includes/header.php'; ?>
 
   <div class="body">
     <div class="col">
@@ -80,14 +73,12 @@
       <h2>Links</h2>
       <ul>
         <li>
-          <a href="https://join.slack.com/t/captureatcornell/shared_invite/zt-1em8aeiet-ZT5KQTzZ0QhWlB3ddscQ5w"
-            target="_blank">
+          <a href="https://join.slack.com/t/captureatcornell/shared_invite/zt-1em8aeiet-ZT5KQTzZ0QhWlB3ddscQ5w" target="_blank">
             Join our club today! (Via Slack)</a>
         </li>
 
         <li>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSebuQnLH3TrK7KEcijqf0I3bDynGQGmegk4kL2iKXUW2dOL9Q/viewform"
-            target="_blank">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSebuQnLH3TrK7KEcijqf0I3bDynGQGmegk4kL2iKXUW2dOL9Q/viewform" target="_blank">
             Request a Collab
           </a>
         </li>
