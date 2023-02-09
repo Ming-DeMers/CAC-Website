@@ -103,7 +103,7 @@ TODO: milestone 1 feedback revisions
 # Ferdinando Flores
 
 ![Alt text](Ferd.jpg)
-*Image sourced from https://thispersondoesnotexist.com/, produced by GAN (generative adversarial network) StyleGAN2*
+*Image sourced from <https://thispersondoesnotexist.com/>, produced by GAN (generative adversarial network) StyleGAN2*
 
 Ferdinando Flores is a Junior Cornellian and studies Computer Science. They hate being called "Ferd," even though everyone calls them that. Despite their studies, Ferd actually has a passion for photography and hopes to pursue it after school. Ferd knows nothing about photography. Against the advice of their parents, friends, and faculty, they have decided to spend a lot of money on new equipment that they do not know how to use, but would like to learn. They have heard about Capture at Cornell and would like to learn more about the club and how they can join.
 
@@ -128,9 +128,9 @@ Ferd, being the typical upper-middle class Cornellian, has a desktop PC, a lapto
 > **Refer to the persona by name.**
 
 - A form to collect information about the user's photography equipment and expereince, so that the club can understand its users better and cater towards the majority of them.
-- - Ferd wants to learn how to use their new photography equipment, and has no experience with photography. The club can host events that help Ferd learn how to use their equipment.
+  - - Ferd wants to learn how to use their new photography equipment, and has no experience with photography. The club can host events that help Ferd learn how to use their equipment.
 - A form to collect information about the user's photography interests, so that the club can help them find opportunities to practice photography.
-- - Ferd wants to find opportunities to practice photography, and the club can help them do that.
+  - - Ferd wants to find opportunities to practice photography, and the club can help them do that.
 - A form for club members to submit their photos. This helps others, like Ferd, to learn and grow together.
 
 
@@ -156,7 +156,7 @@ This will help Ferd to not only see the activity of the club, but also become in
 > **Please physically sort cards;** please don't try and do this digitally.
 > **Refer to the persona by name.**
 
-TODO: iterations of card sorting
+
 
 
 ### Refined Design: Navigation (Milestone 2)
@@ -178,8 +178,26 @@ This helps Ferd to find the information they need quickly and easily in few page
 > Document your _entire_ design process. **Show your preliminary sketches and your final sketches.** **We want to see iteration!**
 > **Refer to your persona by name in each explanation.**
 
-TODO: sketches + explanation
+![home](home%20page.jpg)
+Ferd can see the basics of the club.
 
+![about](about%20page.jpg)
+Ferd can learn more about the history of the club and the eboard
+
+![Alt text](events%20page.jpg)
+Ferd can find upcoming events and past ones.
+
+![Alt text](gallery%20page.jpg)
+Ferd can find the work of the club in a gallery format.
+
+![First Iteration](IMG_0589.JPG%0D)
+This first iteration was a simple design that included a header, footer, and a main content section. There's a home, about, event, and a gallery page. This design is the most spread
+
+!["label"](IMG_0590.JPG%0D)
+This second iteration was a more compact design that included a header, footer, and a main content section. There's a home, about, event, and no gallery page.
+
+![label](IMG_0591.JPG)
+This third iteration has even less content and isn't too helpful for ferd.
 
 ### Partial Plan (Milestone 2)
 > Using your refined sketches, plan your site's partials.
