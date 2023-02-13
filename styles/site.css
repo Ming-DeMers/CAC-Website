@@ -1,22 +1,20 @@
-main {
+html {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+  margin-bottom: 125px;
+  padding: 150px;
 }
 
 .body {
   box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
   border-radius: 5px;
-  margin: 15px;
-  padding: 15px;
   font-size: large;
-
+  padding: 25px;
 }
 
 img {
   box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
   border-radius: 5px;
   margin: 15px;
 }
@@ -98,8 +96,8 @@ nav {
   box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   border-radius: 5px;
-  margin: 15px;
   padding: 15px;
+  margin-bottom: 15px;
 }
 
 nav ul {
@@ -150,12 +148,46 @@ nav a:hover {
   box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   border-radius: 5px;
-  margin: 15px;
   padding: 15px;
+  margin-top: 15px;
 }
 
 .footer a {
   color: #ffffff;
+}
+
+/* tiles */
+
+
+.tile-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+  width: 250px;
+  height: 375px;
+  text-align: center;
+  padding: 10px;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+
+.tile img {
+  width: 200px;
+  object-fit: cover;
+  border-radius: 5px;
 }
 
 /* eboard cards */
@@ -175,8 +207,9 @@ nav a:hover {
   text-align: center;
   padding: 10px;
 
-  margin-left: 20px;
-  margin-bottom: 25px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
   transition: all 0.9s ease;
 }
 
