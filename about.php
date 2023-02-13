@@ -212,6 +212,9 @@ $nav_cooking_class = '';
     </div>
   </div>
 
+  <?php include 'includes/footer.php'; ?>
+
+
   <script src="scripts/jquery-3.6.1.js"></script>
   <script src="scripts/eboard-gallery.js"></script>
 

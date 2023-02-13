@@ -64,4 +64,7 @@ $nav_cooking_class = '';
     <h3> Video with Breakfree Dance</h3>
     <p>Capture helped provide video coverage of Breakfree Dance workshop this Fall.</p>
   </div>
+
+  <?php include 'includes/footer.php'; ?>
+
 </body>

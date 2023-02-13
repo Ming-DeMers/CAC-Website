@@ -70,36 +70,15 @@ $nav_cooking_class = '';
         <li>Socials</li>
       </ul>
 
-      <h2>Links</h2>
-      <ul>
-        <li>
-          <a href="https://join.slack.com/t/captureatcornell/shared_invite/zt-1em8aeiet-ZT5KQTzZ0QhWlB3ddscQ5w" target="_blank">
-            Join our club today! (Via Slack)</a>
-        </li>
 
-        <li>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSebuQnLH3TrK7KEcijqf0I3bDynGQGmegk4kL2iKXUW2dOL9Q/viewform" target="_blank">
-            Request a Collab
-          </a>
-        </li>
-
-        <li>
-          Find us on
-          <a href="https://www.instagram.com/captureatcornell/?hl=en" target="_blank">
-            Instagram</a>
-        </li>
-
-        <li>
-          Reach out to us:
-          <a href="mailto:captureatcornell@gmail.com">captureatcornell@gmail.com
-          </a>
-        </li>
-      </ul>
+      <div class="col"></div>
     </div>
-    <div class="col"></div>
-  </div>
-  <script src="scripts/jquery-3.6.1.js"></script>
-  <script src="scripts/image-gallery.js"></script>
+    <script src="scripts/jquery-3.6.1.js"></script>
+    <script src="scripts/image-gallery.js"></script>
+
+    <?php include 'includes/footer.php'; ?>
+
+
 </body>
 
 </html>
