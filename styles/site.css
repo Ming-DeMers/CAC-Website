@@ -269,6 +269,24 @@ nav a:hover {
 }
 
 
+/* form */
+.form-buttons {
+  display: flex;
+  flex-direction: row;
+  margin-right: 15px;
+  padding: 15px;
+}
+
+.form-buttons button {
+  margin-right: 15px;
+  padding: 15px;
+}
+
+.align-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
 button {
   background-color: #ffffff;
   border-width: 0px;

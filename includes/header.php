@@ -12,6 +12,8 @@
       <li class="<?php echo $nav_about_class; ?>"><a href="about.php">About</a></li>
       <li class="<?php echo $nav_events_class; ?>"><a href="events.php">Events</a></li>
       <li class="<?php echo $nav_contact_class; ?>"><a href="join.php">Join</a></li>
+      <li class="<?php echo $nav_contact_class; ?>"><a href="contact.php">Contact Us</a></li>
+
     </ul>
 
 

@@ -127,11 +127,11 @@ Ferd, being the typical upper-middle class Cornellian, has a desktop PC, a lapto
 > For each form idea, explain how the form supports the goals of the persona.
 > **Refer to the persona by name.**
 
-- A form to collect information about the user's photography equipment and expereince, so that the club can understand its users better and cater towards the majority of them.
+- A form to collect information about the Ferd's photography equipment and experience, so that the club can understand Ferd better and cater towards them.
   - - Ferd wants to learn how to use their new photography equipment, and has no experience with photography. The club can host events that help Ferd learn how to use their equipment.
 - A form to collect information about the user's photography interests, so that the club can help them find opportunities to practice photography.
   - - Ferd wants to find opportunities to practice photography, and the club can help them do that.
-- A form for club members to submit their photos. This helps others, like Ferd, to learn and grow together.
+- A form for Ferd to submit their photos. This helps Ferd to learn and grow together with the club.
 
 
 ### Refined Design: Content (Milestone 2)
@@ -179,24 +179,31 @@ This helps Ferd to find the information they need quickly and easily in few page
 > **Refer to your persona by name in each explanation.**
 
 ![home](home%20page.jpg)
-Ferd can see the basics of the club.
+Ferd can see the basics of the club. They can learn what we have to offer, and how to contact us.
 
 ![about](about%20page.jpg)
-Ferd can learn more about the history of the club and the eboard
+Ferd can learn more about the history of the club and the eboard.
 
-![Alt text](events%20page.jpg)
-Ferd can find upcoming events and past ones.
+![upcoming events](events%20page.jpg)
+Ferd can find upcoming events and past ones, to see if this what they are interested in and plan out their schedule.
 
-![Alt text](gallery%20page.jpg)
+
+![404 iteration](404_mock.png)
+If Ferd tries to go to a page that doesn't exist, or types in the wrong URL, they will be directed to a 404 page.
+
+![Contact form](contact_form_mock.png)
+Ferd can fill out a form to contact the club. They input their name, email, and an optional message.
+
+![Gallery page idea](gallery%20page.jpg)
 Ferd can find the work of the club in a gallery format.
 
 ![First Iteration](IMG_0589.JPG%0D)
 This first iteration was a simple design that included a header, footer, and a main content section. There's a home, about, event, and a gallery page. This design is the most spread
 
-!["label"](IMG_0590.JPG%0D)
+!["second iteration"](IMG_0590.JPG%0D)
 This second iteration was a more compact design that included a header, footer, and a main content section. There's a home, about, event, and no gallery page.
 
-![label](IMG_0591.JPG)
+![third iteration](IMG_0591.JPG)
 This third iteration has even less content and isn't too helpful for ferd.
 
 ### Partial Plan (Milestone 2)
@@ -205,15 +212,14 @@ This third iteration has even less content and isn't too helpful for ferd.
 > Explain how you will customize at least 1 partial.
 
 There will be a header and footer partial.
-The header will be the same as the current website's header.
+The header will be the same as the current website's header. It contains the logo, and a simple nav bar to navigate to the different pages.
 
-The footer will be customized to include links to the club's social media pages and contact information, as well as a link to join.
+The footer will be customized to include links to the club's social media pages and contact information, as well as a link to join via campusgroups.
 
 ## Milestone 2 Feedback Revisions (Milestone 3)
 > Explain what you revised in response to the Milestone 2 feedback
 
-TODO: milestone 2 feedback revisions
-
+I better used the persona to justify my design decisions. I also added designs for the 404 page and the confirmation page. I removed the gallery page, as Ferd can easily find our work on our social media pages.
 
 ## Form Design and Planning (Milestone 3)
 
@@ -223,15 +229,20 @@ TODO: milestone 2 feedback revisions
 > Provide a brief explanation _underneath_ each sketch.
 > **Refer to the persona by name.**
 
-TODO: sketches + explanation
+![404 page](404_design.png)
+This 404 page let's Ferd know that the page they are looking for doesn't exist. It gives them the option to escape by either going to the previous page or going home. Ferd can also just use the nav bar as usual.
 
+![contact form](contact_form_design.png)
+This contact page allows Ferd to reach out to the club. They put their name and email in, select their reason for contact, and may input an optional message. They can then submit the form, and be directed to a confirmation page.
+
+![confirmation page](confirmation_page_design.png)
+This confirmation page lets Ferd know that their message has been sent. It repeats the information that Ferd sent to the club and thanks them.
 
 ### Form Planning (Milestone 3)
 > Will your form use a GET or POST request.
 > Justify your decision as to why the request type is appropriate for the form.
 
-TODO: GET/POST + justification
-
+This form will use post, as it is sending information to the server. This allows Ferd to see their information in the confirmation, and for the club to see the form .
 
 ## Milestone 3 Feedback Revisions (Final Submission)
 > Explain what you revised in response to the Milestone 3 feedback

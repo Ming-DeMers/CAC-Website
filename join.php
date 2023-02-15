@@ -30,7 +30,7 @@ $nav_cooking_class = '';
     <h2>Slack</h2>
     <p>Join our <a href="https://join.slack.com/t/captureatcornell/shared_invite/zt-1em8aeiet-ZT5KQTzZ0QhWlB3ddscQ5w">Slack</a> to chat with us and other members and share your work.</p>
     <h1>Looking to Collab?</h1>
-    <p>Fill out this <a href="https://forms.gle/4ZQZQZQZQZQZQZQZ8">form</a> to get in touch with us!</p>
+    <p>Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSebuQnLH3TrK7KEcijqf0I3bDynGQGmegk4kL2iKXUW2dOL9Q/viewform">form</a> to get in touch with us!</p>
   </div>
   <?php include 'includes/footer.php'; ?>
 
