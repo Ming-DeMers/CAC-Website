@@ -21,23 +21,26 @@
         <input type="text" id="name" name="name"><br><br>
       </div>
       <div class="form-label">
-        <label for="email">Email</label>
+        <label for="email">Email:</label>
         <input type="email" id="email" name="email" />
       </div>
       <p>
-      <div role="group" aria-labelledby="grp">
+
+      <div class="form-group label-input" role="group" aria-labelledby="grp">
         <div id="grp">Reason for Contact:</div>
         <div>
-          <input type="radio" id="rad_reason" name="rad_reason" value="inquire" />
-          <label for="rad_reason">Inquire about CAC</label>
-        </div>
-        <div>
-          <input type="radio" id="rad_reason" name="rad_reason" value="collab" />
-          <label for="rad_reason">Request a Collab</label>
-        </div>
-        <div>
-          <input type="radio" id="rad_reason" name=rad_reason" value="donate" />
-          <label for="rad_reason">Donate</label>
+          <div>
+            <input type="radio" id="inquire" name="rad_reason" value="inquire" />
+            <label for="inquire">Inquire about CAC</label>
+          </div>
+          <div>
+            <input type="radio" id="collab" name="rad_reason" value="collab" />
+            <label for="collab">Request a Collab</label>
+          </div>
+          <div>
+            <input type="radio" id="donate" name="rad_reason" value="donate" />
+            <label for="donate">Donate</label>
+          </div>
         </div>
       </div>
       </p>
@@ -46,7 +49,7 @@
         <textarea id="msg" name="msg" rows="4" cols="50"> </textarea>
       </div>
       <div class="form-buttons">
-        <input type="reset">
+        <input type="reset" value="Reset">
         <div class="align-right">
           <input id="send-msg" type="submit" value="Send Message" />
         </div>

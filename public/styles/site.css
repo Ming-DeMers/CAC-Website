@@ -275,13 +275,13 @@ nav a:hover {
 }
 
 #error-page button {
-  border: #797979 1px solid;
-  fill: #797979;
+  border: #555555 1px solid;
+  fill: #555555;
   border-radius: 5px;
 }
 
 #error-page a {
-  color: #797979;
+  color: #555555;
 }
 
 /* form */
