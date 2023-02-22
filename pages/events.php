@@ -13,7 +13,7 @@ $nav_cooking_class = '';
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <title>Capture @ Cornell</title>
-  <link rel="stylesheet" type="text/css" href="styles/site.css" />
+  <link rel="stylesheet" type="text/css" href="/public/styles/site.css" />
 </head>
 
 <body>
@@ -57,7 +57,7 @@ $nav_cooking_class = '';
     <h3>Headshots with CIS and WICC</h3>
     <p>C@C was tasked to provide headshots for the CIS Bowers Formal this Fall.</p>
 
-    <h3>Headshtos with The Wardrobe Club</h3>
+    <h3>Headshots with The Wardrobe Club</h3>
     <p>C@C collabed with The Wardrobe to provide free professional headshots for Cornell students. The Wardrobe provided
       professional clothing, Capture provided the professional photography and touch-up.</p>
 

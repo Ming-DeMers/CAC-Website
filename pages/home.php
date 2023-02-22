@@ -1,9 +1,5 @@
 <?php
 $title = 'Home';
-
-$nav_home_class = 'active_page';
-$nav_citations_class = '';
-$nav_cooking_class = '';
 ?>
 
 <!DOCTYPE html>
@@ -14,7 +10,7 @@ $nav_cooking_class = '';
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <title>Capture @ Cornell</title>
-  <link rel="stylesheet" type="text/css" href="styles/site.css" />
+  <link rel="stylesheet" type="text/css" href="/public/styles/site.css" />
 </head>
 
 <body>
@@ -65,20 +61,20 @@ $nav_cooking_class = '';
       <div class="tile-group">
         <div class="tile">
           <h2>G-Body Meetings</h2>
-          <img src="images/gbody thumb.jpg" alt="cac group photo Spring 2022">
+          <img src="public/images/gbody_thumb.jpg" alt="cac group photo Spring 2022">
           <p>Regular meetings where members can learn about photography, share their work, and socialize. Free pizza included!</p>
         </div>
 
         <div class="tile">
           <h2>Photowalks</h2>
-          <img src="images/photowalks thumb.jpg" alt="photowalk photo">
+          <img src="/public/images/photowalks_thumb.jpg" alt="photowalk photo">
           <p>Themed photowalk and workshops help to explore and try new skills with others in a fun environment.
           </p>
         </div>
 
         <div class="tile">
           <h2>Collabs</h2>
-          <img src="images/collabs thumb.jpg" alt="collabs photo">
+          <img src="/public/images/collabs_thumb.jpg" alt="collabs photo">
           <p>Unique opportunities to get real-world experience with other clubs and orgs. at Cornell.
 
           </p>
@@ -103,10 +99,10 @@ $nav_cooking_class = '';
     </div>
     <script src="scripts/jquery-3.6.1.js"></script>
     <script src="scripts/image-gallery.js"></script>
+  </div>
 
-
+  <?php include 'includes/footer.php'; ?>
 
 </body>
-<?php include 'includes/footer.php'; ?>
 
 </html>

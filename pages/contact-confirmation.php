@@ -13,7 +13,7 @@ $form_msg = $_POST['msg']; // untrusted
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-  <link rel="stylesheet" type="text/css" href="styles/site.css" />
+  <link rel="stylesheet" type="text/css" href="/public/styles/site.css" />
 </head>
 
 <body>

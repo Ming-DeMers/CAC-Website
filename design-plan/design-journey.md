@@ -128,9 +128,9 @@ Ferd, being the typical upper-middle class Cornellian, has a desktop PC, a lapto
 > **Refer to the persona by name.**
 
 - A form to collect information about the Ferd's photography equipment and experience, so that the club can understand Ferd better and cater towards them.
-  - - Ferd wants to learn how to use their new photography equipment, and has no experience with photography. The club can host events that help Ferd learn how to use their equipment.
+    - - Ferd wants to learn how to use their new photography equipment, and has no experience with photography. The club can host events that help Ferd learn how to use their equipment.
 - A form to collect information about the user's photography interests, so that the club can help them find opportunities to practice photography.
-  - - Ferd wants to find opportunities to practice photography, and the club can help them do that.
+    - - Ferd wants to find opportunities to practice photography, and the club can help them do that.
 - A form for Ferd to submit their photos. This helps Ferd to learn and grow together with the club.
 
 
@@ -181,15 +181,14 @@ This helps Ferd to find the information they need quickly and easily in few page
 ![home](home%20page.jpg)
 Ferd can see the basics of the club. They can learn what we have to offer, and how to contact us.
 
+![home_revision](homepagerevisioin.png)
+This is a revision of the home page. It includes a header, footer, and a main content section. Instead of the outdate carousel, there are three cards advertising what the club has to offer.
+
 ![about](about%20page.jpg)
 Ferd can learn more about the history of the club and the eboard.
 
 ![upcoming events](events%20page.jpg)
 Ferd can find upcoming events and past ones, to see if this what they are interested in and plan out their schedule.
-
-
-![404 iteration](404_mock.png)
-If Ferd tries to go to a page that doesn't exist, or types in the wrong URL, they will be directed to a 404 page.
 
 ![Contact form](contact_form_mock.png)
 Ferd can fill out a form to contact the club. They input their name, email, and an optional message.
@@ -229,9 +228,6 @@ I better used the persona to justify my design decisions. I also added designs f
 > Provide a brief explanation _underneath_ each sketch.
 > **Refer to the persona by name.**
 
-![404 page](404_design.png)
-This 404 page let's Ferd know that the page they are looking for doesn't exist. It gives them the option to escape by either going to the previous page or going home. Ferd can also just use the nav bar as usual.
-
 ![contact form](contact_form_design.png)
 This contact page allows Ferd to reach out to the club. They put their name and email in, select their reason for contact, and may input an optional message. They can then submit the form, and be directed to a confirmation page.
 
@@ -258,14 +254,16 @@ TODO: milestone 3 feedback revisions
 
 | Route       | PHP File                            |
 | ----------- | ----------------------------------- |
-| /           | pages/home.php (or pages/index.php) |
-| TODO: route | TODO: php file                      |
-| TODO: route | TODO: php file                      |
+/ --> pages/home.php
+/about --> pages/about.php
+/contact --> pages/contact.php
+/join --> pages/join.php
+/events --> pages/events.php
+
 
 > Explain why these routes (URLs) are usable for your persona.
 
-TODO: justification of routing design
-
+These routes are succinct and descriptive of the content on the page. Ferd can easily remember and type out these names to go directly to that pages.
 
 ### Refined Missing Resource Page (Milestone 3)
 > Refine the design of your site's missing resource 404 page for your persona.
@@ -273,8 +271,12 @@ TODO: justification of routing design
 > Provide a brief explanation _underneath_ each sketch.
 > **Refer to the persona by name.**
 
-TODO: sketches + explanation
 
+![404 iteration](404_mock.png)
+If Ferd tries to go to a page that doesn't exist, or types in the wrong URL, they will be directed to a 404 page. This is a draft.
+
+![404 page](404_design.png)
+This 404 page let's Ferd know that the page they are looking for doesn't exist. It gives them the option to escape by either going to the previous page or going home. Ferd can also just use the nav bar as usual. This page is better as it gives two options to escape and has a nice design.
 
 ### Accessibility Audit (Final Submission)
 > Tell us what issues you discovered during your accessibility audit.
