@@ -257,8 +257,11 @@ TODO: milestone 3 feedback revisions
 / --> pages/home.php
 /about --> pages/about.php
 /contact --> pages/contact.php
+/contact/confirmation --> pages/contact-confirmation.php
 /join --> pages/join.php
 /events --> pages/events.php
+/home --> pages/home.php
+
 
 
 > Explain why these routes (URLs) are usable for your persona.
@@ -282,7 +285,7 @@ This 404 page let's Ferd know that the page they are looking for doesn't exist. 
 > Tell us what issues you discovered during your accessibility audit.
 > What do you do to improve the accessibility of your site?
 
-TODO: audit fixes
+I discovered a number of small issues. The most important one was that the color contrast was too low for the contact form buttons. I fixed this by changing the color of the text to a darker color. I also added alt text to the images, and made sure that the text was large enough to read. I also ensured the buttons were could be tabbed through and the text was readable.
 
 
 ### Final Design + Audience Goals (Final Submission)
@@ -290,13 +293,14 @@ TODO: audit fixes
 > Be specific. Tell us how you tailored your design, content, etc. to make your website usable for your persona.
 > **Refer to the persona by name.**
 
-TODO: rationale
+The final design of this site is perfect for Ferd. After they reached out to use (and told us to call them Ferdinando), the site was designed with Ferdinando in mind. The site is simple and easy to navigate. Ferdinando can easily find the information they need, and can easily contact us. The home page tells Ferdinando what the club has to offer, including g-body's, photowalks, and collabs. Ferdinando can see the about page to learn more about the club, and find upcoming events in the events page. When Ferdinando is ready to join, they can visit that page to join via campusgroups and the slack. Ferdinando can also ask any questions, or request a collab. The site is also responsive, so Ferdinando can easily use it on many device screen sizes. At the bottom, Ferdinando can find links that may be helpful. Ferdinando can find our social media pages, and contact information. They can also find a link to join via campusgroups.
 
 
 ### Self-Reflection (Final Submission)
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
-TODO: self-reflection
+I've learned so much! Thanks to Ferdinando, we've explored converting our pages to PHP, creating custom routing, and designing a 404 page. We learned about forms and how to submit/confirm them, as well as creating websites not only for a general audience, but personas, such as Ferdinando. Indeed, I've spent so much time with Ferdinando that I've learned to love them. I'm so proud of Ferdinando, and I'm so proud of the work we've done together. Unfortunately Ferdinando is not real - merely a figment of my imagination for the sake of INFO 2300. I wish I had real friends. But at least I have Ferdinando! I can't wait to see what Ferdinando does next!
+
 
 
 ## Grading (Final Submission)
@@ -304,29 +308,26 @@ TODO: self-reflection
 ### Grading: Mobile or Desktop (Final Submission)
 > When we grade your final site, should we grade this with a mobile screen size or a desktop screen size?
 
-TODO: screen size
-
+Desktop
 
 ### Grading: Partials (Final Submission)
 > Clearly list each partial file and where you used it.
 
-- TODO: partial 1
-- TODO: partial 2
+- Header (includes/header.php), at the top of each main body page
+- Footer (includes/footer.php), at the bottom of each main body page
 
 > Which partials have customization? Explain how the customization looks in the browser.
 
-- Example: header.php shows a border around the current page (TODO: delete this line)
 - TODO: partial customization
 
 
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
-
+None
 
 ### Reference Resources
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+W3Schools, GitHub, StackOverflow, and the PHP documentation. Also, INFO2300
