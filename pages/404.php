@@ -19,12 +19,13 @@ $title = '404';
 
   <div class="body" id="error-page">
     <h2>Oops! Looks like that page doesn't exist.</h2>
-    <img src="/public/images/film_roll_confirmation.png" width="300px" alt="roll of film">
+    <!-- Source: (original work) Ming DeMers -->
+    <img src="public/images/film_roll_confirmation.png" width="300" alt="roll of film">
     <h3>You can:</h3>
-    <p>
-      <button><a href="/">Go Home</a></button>
-      <button><a href="javascript:history.go(-1)">Go Back</a></button>
-    </p>
+
+    <a href="/">Go Home</a>
+    <a href="javascript:history.go(-1)">Go Back</a>
+
   </div>
 
   <?php include 'includes/footer.php'; ?>

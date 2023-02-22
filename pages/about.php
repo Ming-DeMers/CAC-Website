@@ -106,7 +106,7 @@ $nav_cooking_class = '';
     <div class="profile-card" id="gluza">
       <div class="card-front">
         <!-- Source: (original work) Veronica Gluza -->
-        <img src="images/eboard_fa22/veronica_gluza.jpg" alt="headshot of Veronica Gluza" width="175" />
+        <img src="/public/images/eboard_fa22/vera.jpg" alt="headshot of Veronica Gluza" width="175" />
         <h3>Veronica Gluza</h3>
         <h4>Secretary</h4>
 

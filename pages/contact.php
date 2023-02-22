@@ -24,10 +24,10 @@
         <label for="email">Email:</label>
         <input type="email" id="email" name="email" />
       </div>
-      <p>
-
       <div class="form-group label-input" role="group" aria-labelledby="grp">
-        <div id="grp">Reason for Contact:</div>
+        <div id="grp">
+          <p>Reason for Contact:</p>
+        </div>
         <div>
           <div>
             <input type="radio" id="inquire" name="rad_reason" value="inquire" />
@@ -43,7 +43,6 @@
           </div>
         </div>
       </div>
-      </p>
       <div>
         <p><label for="msg">Message (optional):</label></p>
         <textarea id="msg" name="msg" rows="4" cols="50"> </textarea>
@@ -55,7 +54,6 @@
         </div>
       </div>
     </form>
-    </section>
   </div>
 
   <?php include 'includes/footer.php'; ?>

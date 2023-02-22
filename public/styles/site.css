@@ -274,14 +274,19 @@ nav a:hover {
   border-radius: 0px;
 }
 
-#error-page button {
+#error-page a {
+  color: #555555;
   border: #555555 1px solid;
   fill: #555555;
   border-radius: 5px;
+  padding: 5px;
 }
 
-#error-page a {
-  color: #555555;
+#error-page a:hover {
+  color: #ffffff;
+  background-color: #555555;
+  border: #555555 1px solid;
+  fill: #ffffff;
 }
 
 /* form */
@@ -292,9 +297,21 @@ nav a:hover {
   padding: 15px;
 }
 
-.form-buttons button {
+.form-buttons input {
   margin-right: 15px;
-  padding: 15px;
+  color: #000000;
+  border: #555555 1px solid;
+  border-radius: 5px;
+  fill: #ffffff;
+}
+
+.form-buttons input:hover {
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #bf0000;
+  border: #bf0000 1px solid;
+  fill: #ffffff;
+
 }
 
 .align-right {
