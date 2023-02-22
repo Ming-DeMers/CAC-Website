@@ -89,10 +89,6 @@ The pages will use partials for the header, and the forms and events will be dyn
 ## Milestone 1 Feedback Revisions (Milestone 2)
 > Explain what you revised in response to the Milestone 1 feedback
 
-TODO: milestone 1 feedback revisions
-
-
-
 ## Refined Design (Milestone 2)
 
 ### Refined Design: Persona (Milestone 2)
@@ -243,9 +239,6 @@ This form will use post, as it is sending information to the server. This allows
 ## Milestone 3 Feedback Revisions (Final Submission)
 > Explain what you revised in response to the Milestone 3 feedback
 
-TODO: milestone 3 feedback revisions
-
-
 ## Complete & Polished Website (Final Submission)
 
 ### Routing (Final Submission)
@@ -318,7 +311,7 @@ Desktop
 
 > Which partials have customization? Explain how the customization looks in the browser.
 
-- TODO: partial customization
+- The header displays the current page above the nav bar.
 
 
 ### Collaborators
