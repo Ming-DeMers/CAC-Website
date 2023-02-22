@@ -1,4 +1,6 @@
 <?php
+$title = 'Contact Confirmation';
+
 $form_name = $_POST['name']; // untrusted
 $form_email = $_POST['email']; // untrusted
 $form_reason = $_POST['rad_reason']; // untrusted
@@ -14,6 +16,13 @@ $form_msg = $_POST['msg']; // untrusted
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <link rel="stylesheet" type="text/css" href="/public/styles/site.css" />
+  <link rel="apple-touch-icon" sizes="180x180" href="public/fav/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="public/fav/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="public/fav/favicon-16x16.png">
+  <link rel="manifest" href="public/fav/site.webmanifest">
+  <link rel="mask-icon" href="public/fav/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
 </head>
 
 <body>
